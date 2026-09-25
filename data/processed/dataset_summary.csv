@@ -1,0 +1,15 @@
+Column,Data_Type,Missing_Values,Unique_Values
+customer_id,int64,0,243553
+telecom_partner,object,0,4
+gender,object,0,2
+age,int64,0,57
+state,object,0,28
+city,object,0,6
+pincode,int64,0,213442
+date_of_registration,object,0,1220
+num_dependents,int64,0,5
+estimated_salary,int64,0,110032
+calls_made,int64,0,119
+sms_sent,int64,0,59
+data_used,int64,0,11837
+churn,int64,0,2
