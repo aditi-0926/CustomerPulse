@@ -1,4 +1,3 @@
-SELECT * FROM telecom_customers
 
 --Churn by telecom partner
 SELECT
